@@ -7,6 +7,8 @@ public class ServicioGit {
 
 		System.out.println("Repositorio Git creado desde entorno local");
 		
+		System.out.println("Commit intermedio");
+		
 	}
 
 }
