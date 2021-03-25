@@ -9,6 +9,8 @@ public class ServicioGit {
 		
 		System.out.println("Commit intermedio");
 		
+		System.out.println("Commit realizado antes de conectar con GitHub");
+		
 	}
 
 }
